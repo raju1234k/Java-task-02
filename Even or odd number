@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Even or Odd</title>
+</head>
+<script>
+ var number=prompt("Enter a number");
+if(number%2==0)
+{ document.write("even number ");}
+else if(number%2!=0)
+{document.write("odd number ");}
+  </script>
+<body>
+    
+</body>
+</html>
