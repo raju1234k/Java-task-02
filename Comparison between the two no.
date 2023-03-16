@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Comparision b/w two numbers </title>
+</head>
+<script>
+    // Greatest no. between two no. 
+    var num1=prompt("Enter the 1st no.");
+    var num2=prompt("Enter the 2nd no.");
+    document.write("the 1st no. is " +num1+ ".<br>");
+    document.write("the 2nd no. is " +num2+ ".<br>");
+    if(num1>num2)
+    { document.write("  greater no.  " +num1+ ".<br>");}
+    else if(num1<num2)
+   { document.write(" greater no.  " +num2+ ".<br>" );}
+    </script>
+<body>
+    
+</body>
+</html>
